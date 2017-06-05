@@ -6,4 +6,4 @@
 
 * [中文网](https://www.tslang.cn/index.html)
 
-* [实战！实战！](https://github.com/magicmai/TypeScriptSamples)
+* [实战!实战!实战!](https://github.com/magicmai/TypeScriptSamples)
