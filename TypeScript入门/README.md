@@ -1,1 +1,1 @@
-课程：[TypeScript入门](http://www.imooc.com/learn/763)
+课程：[imooc-TypeScript入门](http://www.imooc.com/learn/763)
