@@ -6,4 +6,4 @@
 
 #### 3. 类
 
-课程：[biaoyansu TypeScript精讲](https://www.bilibili.com/video/av7246253/)
+课程：[biaoyansu-TypeScript精讲](https://www.bilibili.com/video/av7246253/)
